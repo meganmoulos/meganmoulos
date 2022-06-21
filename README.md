@@ -12,8 +12,5 @@ You can find me:
 
 :feet: I love spending time with my partner and our two dogs, Zuko and Luna
 
-[![Megan Moulos stats](https://github-readme-stats.vercel.app/api?username=meganmoulos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganmoulos)](https://github.com/anuraghazra/github-readme-stats)
 
