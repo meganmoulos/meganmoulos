@@ -11,6 +11,3 @@ You can find me:
 :computer: You can reach me at meganmoulos@gmail.com
 
 :feet: I love spending time with my partner and our two dogs, Zuko and Luna
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganmoulos)](https://github.com/anuraghazra/github-readme-stats)
-
